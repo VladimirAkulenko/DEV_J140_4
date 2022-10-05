@@ -1,0 +1,12 @@
+.table-view {
+    -fx-base: #3D62B2;
+    -fx-control-inner-background: #ABB4BD;
+
+}
+
+
+.table-view .column-header .label {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: #E2BEDA;
+}

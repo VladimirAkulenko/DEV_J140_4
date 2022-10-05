@@ -1,0 +1,28 @@
+/*.table-view {
+    -fx-base: #318FB1;
+    -fx-control-inner-background: #ADBDD6;
+
+}
+
+
+.table-view .column-header .label {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Arial";
+    -fx-text-fill: #EFBB65;
+}*/
+
+
+.table-view {
+    -fx-base: #2E3348;
+    -fx-control-inner-background: #ADBDD6;
+
+}
+
+
+.table-view .column-header .label {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Arial";
+    -fx-text-fill: #F39C63;
+}
+
+
