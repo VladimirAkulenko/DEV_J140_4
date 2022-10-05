@@ -1,0 +1,38 @@
+
+#GridPane{
+    -fx-background-color: #2E3348;
+}
+
+.text-field{
+    -fx-border-color: black;
+    
+}
+
+.button {
+-fx-background-color: #F39C63;
+    -fx-font-size: 13pt;
+    -fx-font-family: "Arial";
+    -fx-text-fill: white;
+
+}
+
+.label {
+    -fx-font-size: 12pt;
+    -fx-font-family: "Arial";
+    
+    -fx-text-fill: white;
+}
+
+.label-welcom {
+    -fx-font-size: 26;
+    -fx-font-family: "Arial";
+    -fx-font-weight:bold;
+    
+}
+.action-text{
+    -fx-text-fill: red;
+}
+
+
+
+

@@ -1,0 +1,19 @@
+.table-view {
+    -fx-base: #7A859B;
+    -fx-control-inner-background: #D8DAD9;
+
+}
+
+
+.table-view .column-header .label {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Times New Roman";
+    -fx-font-style: italic;
+    -fx-text-fill: #60C2E5;
+}
+
+.table-view .table-cell{
+    -fx-font-weight:bold;
+    -fx-font-size:12px;
+    -fx-alignment: CENTER;
+}    
